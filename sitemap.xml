@@ -1,3 +1,127 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://yadavgaurav.com/wp-sitemap-index.xsl" ?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"><sitemap><loc>https://yadavgaurav.com/wp-sitemap-posts-post-1.xml</loc></sitemap><sitemap><loc>https://yadavgaurav.com/wp-sitemap-posts-page-1.xml</loc></sitemap><sitemap><loc>https://yadavgaurav.com/wp-sitemap-taxonomies-category-1.xml</loc></sitemap><sitemap><loc>https://yadavgaurav.com/wp-sitemap-taxonomies-post_tag-1.xml</loc></sitemap><sitemap><loc>https://yadavgaurav.com/wp-sitemap-users-1.xml</loc></sitemap></sitemapindex>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://yadavgaurav.com/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/services/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/projects/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/blog/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/hi/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/install-onedrive-ubuntu/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/contact/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.80</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/author/gauravyadav/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/wordpress-static-html-website/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/dyslexia-experiences-reading/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/crop-production-management-answers/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/table-control-chart-constants/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be%e0%a4%8f%e0%a4%82/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/%e0%a4%95%e0%a4%be%e0%a4%ae/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/%e0%a4%ac%e0%a5%8d%e0%a4%b2%e0%a5%89%e0%a4%97/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/digital-ocean/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/lemp/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/ncert/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/ngnix/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/statistics/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/ubuntu/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+<url>
+  <loc>https://yadavgaurav.com/feed/</loc>
+  <lastmod>2020-10-13T11:09:54+00:00</lastmod>
+  <priority>0.51</priority>
+</url>
+
+
+</urlset>
