@@ -5,11 +5,8 @@ Author: Gaurav Yadav
 Author URI: https://yadavgaurav.com/
 Description: Light Wieght Theme for Blogs or Portfolio.
 Version: 1.0.0
-Tested up to: 5.5
-Requires PHP: 5.6
 Text Domain: gylight
 Tags: featured-images, threaded-comments, full-width
-
 */
 html {
 	font-family:sans-serif;
@@ -25,7 +22,7 @@ body {
   	word-break: break-word;
 }
 :root {
-	--main-color: #7d1fa5;
+	--main-color: #361999;
 }
 h1 {
 	font-size: 2em;
@@ -435,7 +432,7 @@ textarea {
 .comment-form-author, .comment-form-email {overflow: hidden;}
 .h-cont {margin: 0 auto;
 	padding:0 20px;}
-.container {
+.container, .c-nrw {
 	margin: 0 auto;
 	padding:20px;
 }
@@ -502,14 +499,13 @@ textarea {
 	padding: 10px;
 }
 #grid-3 {
-    background: #000;
-    color: #fff;
+    background: #fff;
+    color: #f16334;
+	border:4px solid #f16334;
     border-radius: 16px;
     margin-top: -120px;
 		padding: 24px;
 		text-align: center;
-		-webkit-box-align: center;
-		-ms-flex-align: center;
 		align-items: center;
 }
 #grid-3 h2 {
@@ -527,7 +523,7 @@ textarea {
     line-height: 0;
 }
 .contact-footer {margin: 24px;}
-.contact-footer a {background: #fff;color: #000;padding: 16px 24px;border-radius: 48px;display: inline-block;}
+.contact-footer a {background: #fff;color: #f16334;padding: 16px 24px;border:2px solid #f16334;border-radius: 4px;display: inline-block;}
 .site-info {
 	background: #5440a5;
 	padding: 20px
@@ -552,13 +548,13 @@ textarea {
     border-radius: 8px;
 }
 @media (min-width:544px) {
-	.container {padding:32px}
+	.container, .c-nrw {padding:32px}
 	.tocg {margin:0 -32px;padding:32px;}
 	.post-thumbnail {height:288px;}
 }
 
 @media (min-width:786px) {
-	.h-cont,
+	.h-cont,.c-nrw,
 	.container,
   #comments,#llc_comments #respond,.comment{max-width: 760px;}
 	.entry-footer,
@@ -577,11 +573,11 @@ textarea {
 }
 
 @media (min-width:940px) {
-	.h-cont,
+	.h-cont, .c-nrw,
 	.container, #comments,#llc_comments #respond,.comment {
 		max-width: 920px
 	}
-	.container {padding:42px}
+	.container, .c-nrw {padding:42px}
 	.tocg {margin:0 -36px;padding:36px;}
 	.entry-footer,
 	#comments,#llc_comments #respond,.comment,
@@ -596,7 +592,8 @@ textarea {
 	.container, #comments,#llc_comments #respond,.comment {
 		max-width: 1170px
 	}
-	.container {padding: 42px 72px}
+	.c-nrw {max-width:960px}
+	.container, .c-nrw {padding: 42px 72px}
 	.tocg {margin:0 -42px;padding:42px;}
 	.entry-footer,
 	.#comments,#llc_comments #respond,.comment,
@@ -761,7 +758,8 @@ button.menu-toggle {
 	clear: both;
 	display: block;
 	margin-left: auto;
-	margin-right: auto
+	margin-right: auto;
+	text-align: center;
 }
 
 .clear:before,
