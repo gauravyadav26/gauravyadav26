@@ -2,7 +2,7 @@
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="https://gmpg.org/xfn/11">
 	
-	<!-- This site is optimized with the Yoast SEO plugin v15.5 - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Install WordPress Nginx (LEMP) on DigitalOcean</title>
 	<meta name="description" content="In this tutorial, we will install Ubuntu 18.04 or 20.04, Nginx, MariaDB, and PHP 7.4 but there a lot of options available to set up a server." />
 	<meta name="robots" content="index, follow, max-snippet:-1, max-image-preview:large, max-video-preview:-1" />
@@ -20,7 +20,7 @@
 	<meta name="twitter:label1" content="Written by">
 	<meta name="twitter:data1" content="Gaurav Yadav">
 	<meta name="twitter:label2" content="Est. reading time">
-	<meta name="twitter:data2" content="8 minutes">
+	<meta name="twitter:data2" content="10 minutes">
 	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebSite","@id":"https://yadavgaurav.com/#website","url":"https://yadavgaurav.com/","name":"Gaurav Yadav","description":"How To Develop","publisher":{"@id":"https://yadavgaurav.com/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9"},"potentialAction":[{"@type":"SearchAction","target":"https://yadavgaurav.com/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"ImageObject","@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#primaryimage","inLanguage":"en-US","url":"https://yadavgaurav.com/wp-content/uploads/2020/01/Install-WordPress-Nginx-LEMP-DigitalOcean.svg","caption":"Install WordPress Nginx (LEMP) on DigitalOcean"},{"@type":"WebPage","@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#webpage","url":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/","name":"Install WordPress Nginx (LEMP) on DigitalOcean","isPartOf":{"@id":"https://yadavgaurav.com/#website"},"primaryImageOfPage":{"@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#primaryimage"},"datePublished":"2020-01-24T09:53:10+00:00","dateModified":"2020-09-05T18:57:56+00:00","description":"In this tutorial, we will install Ubuntu 18.04 or 20.04, Nginx, MariaDB, and PHP 7.4 but there a lot of options available to set up a server.","inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/"]}]},{"@type":"Article","@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#article","isPartOf":{"@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#webpage"},"author":{"@id":"https://yadavgaurav.com/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9"},"headline":"Install WordPress Nginx (LEMP) on DigitalOcean","datePublished":"2020-01-24T09:53:10+00:00","dateModified":"2020-09-05T18:57:56+00:00","mainEntityOfPage":{"@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#webpage"},"commentCount":4,"publisher":{"@id":"https://yadavgaurav.com/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9"},"image":{"@id":"https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#primaryimage"},"articleSection":"Digital Ocean,LEMP,Ngnix,WordPress","inLanguage":"en-US","potentialAction":[{"@type":"CommentAction","name":"Comment","target":["https://yadavgaurav.com/wordpress-ngnix-lemp-digitalocean/#respond"]}]},{"@type":["Person","Organization"],"@id":"https://yadavgaurav.com/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9","name":"Gaurav Yadav","image":{"@type":"ImageObject","@id":"https://yadavgaurav.com/#personlogo","inLanguage":"en-US","url":"","caption":"Gaurav Yadav"},"logo":{"@id":"https://yadavgaurav.com/#personlogo"}}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
@@ -43,7 +43,7 @@
 <body class="post-template post-template-nosidebar-nofeatured-fullwidth post-template-nosidebar-nofeatured-fullwidth-php single single-post postid-190 single-format-standard wp-custom-logo">
 	<div id="page" class="site"><header id="masthead" class="site-header">
             <div class="h-cont clear"><div class="site-branding">
-							<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GY.svg" width="48" height="48" alt="Gaurav Yadav"></a>
+							<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="48" height="48" alt="Gaurav Yadav"></a>
 							<a class="site-title" href="https://yadavgaurav.com/" rel="home">Gaurav Yadav</a>		</div><!-- .site-branding -->
 		<nav id="site-navigation" class="main-navigation clear">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" aria-label="Menu"><div class="fas fa-bars"></div></i></button>
@@ -498,7 +498,7 @@ gzip_types
 	<footer id="colophon" class="site-footer">
 		<div class="h-cont gy-grid grid-2" style="padding-bottom:20px">
 			<div class="action-c">
-				<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GY.svg" width="64" height="64" alt="Gaurav Yadav"></a>
+				<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="64" height="64" alt="Gaurav Yadav"></a>
 				<p>Web Designer & Developer</p>
 			</div>
 			<div class="social-l">
