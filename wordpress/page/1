@@ -102,10 +102,13 @@
 	</div></div>
 </section>
 	<footer id="colophon" class="site-footer">
-		<div class="h-cont gy-grid grid-2" style="padding-bottom:20px">
+		<div class="h-cont gy-grid grid-3" style="padding-bottom:20px">
 			<div class="action-c">
 				<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="64" height="64" alt="Gaurav Yadav"></a>
 				<p>Web Designer & Developer</p>
+				<p>Best Website Development Company in Gurugram and Delhi/NCR</p>
+			</div>
+			<div><p>579, Sector 27<br>Gurugram, Haryana</p><p>Mob: 9873396676</p><p>contact@yadavgaurav.com</p>
 			</div>
 			<div class="social-l">
 					<h3>Follow Us Around</h3>
