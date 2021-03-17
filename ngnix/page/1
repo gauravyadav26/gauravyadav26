@@ -1,9 +1,14 @@
 <!doctype html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="https://gmpg.org/xfn/11">
+<<<<<<< HEAD
 	<meta name='robots' content='noindex, follow' />
 
 	<!-- This site is optimized with the Yoast SEO plugin v16.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
+=======
+	
+	<!-- This site is optimized with the Yoast SEO plugin v15.7 - https://yoast.com/wordpress/plugins/seo/ -->
+>>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 	<title>Ngnix Archives - Gaurav Yadav</title>
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
@@ -103,6 +108,7 @@
 
 
 <link rel='dns-prefetch' href='//s.w.org' />
+<<<<<<< HEAD
 <link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Feed" href="http://localhost/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Comments Feed" href="http://localhost/comments/feed/" />
 <link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Ngnix Category Feed" href="http://localhost/ngnix/feed/" />
@@ -113,16 +119,36 @@
 <link rel="icon" href="http://localhost/wp-content/uploads/2020/07/GY.png" sizes="192x192" />
 <link rel="apple-touch-icon" href="http://localhost/wp-content/uploads/2020/07/GY.png" />
 <meta name="msapplication-TileImage" content="http://localhost/wp-content/uploads/2020/07/GY.png" />
+=======
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Feed" href="http://yadavgaurav.localhost/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Comments Feed" href="http://yadavgaurav.localhost/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Ngnix Category Feed" href="http://yadavgaurav.localhost/ngnix/feed/" />
+<link rel='stylesheet' id='advancedseo-style-css'  href='http://yadavgaurav.localhost/wp-content/themes/advancedseo/style.css?ver=5.6.1' media='all' />
+<link rel="https://api.w.org/" href="http://yadavgaurav.localhost/wp-json/" /><link rel="alternate" type="application/json" href="http://yadavgaurav.localhost/wp-json/wp/v2/categories/9" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://yadavgaurav.localhost/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.6.1" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" sizes="32x32" />
+<link rel="icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" />
+<meta name="msapplication-TileImage" content="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" />
+>>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 	</head>
 <body class="archive category category-ngnix category-9 wp-custom-logo hfeed">
 	<div id="page" class="site"><header id="masthead" class="site-header">
             <div class="h-cont clear"><div class="site-branding">
 							<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="48" height="48" alt="Gaurav Yadav"></a>
+<<<<<<< HEAD
 							<a class="site-title" href="http://localhost/" rel="home">Gaurav Yadav</a>		</div><!-- .site-branding -->
 		<nav id="site-navigation" class="main-navigation clear">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" aria-label="Menu"><div class="fas fa-bars"></div></i></button>
 			<div class="menu-top-nav-container"><ul id="primary-menu" class="menu"><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://localhost/blog/">Blog</a></li>
 <li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://localhost/contact/">Contact</a></li>
+=======
+							<a class="site-title" href="http://yadavgaurav.localhost/" rel="home">Gaurav Yadav</a>		</div><!-- .site-branding -->
+		<nav id="site-navigation" class="main-navigation clear">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" aria-label="Menu"><div class="fas fa-bars"></div></i></button>
+			<div class="menu-top-nav-container"><ul id="primary-menu" class="menu"><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://yadavgaurav.localhost/blog/">Blog</a></li>
+<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://yadavgaurav.localhost/contact/">Contact</a></li>
+>>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 </ul></div>		</nav>
 <div class="lang-h"></div>
 		<!-- #site-navigation --></div></header><!-- #masthead --><div id="content" class="site-content">
@@ -167,7 +193,11 @@
 				<p>Web Designer & Developer</p>
 				<p>Best Website Development Company in Gurugram and Delhi/NCR</p>
 			</div>
+<<<<<<< HEAD
 			<div class="cont-foot"><h3>Contact Us</h3><p>579, Sector 27<br>Gurugram, Haryana</p><p>Mob: 9873396676</p><p>contact@yadavgaurav.com</p>
+=======
+			<div><h3>Contact Us</h3><p>579, Sector 27<br>Gurugram, Haryana</p><p>Mob: 9873396676</p><p>contact@yadavgaurav.com</p>
+>>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 			</div>
 			<div class="social-l">
 					<h3>Follow Us Around</h3>
@@ -186,7 +216,11 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
+<<<<<<< HEAD
 <script src='http://localhost/wp-content/themes/advancedseo/js/navigation.js?ver=20151215' id='advancedseo-navigation-js'></script>
+=======
+<script src='http://yadavgaurav.localhost/wp-content/themes/advancedseo/js/navigation.js?ver=20151215' id='advancedseo-navigation-js'></script>
+>>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-153864753-1"></script>
 <script>
