@@ -1,42 +1,128 @@
 <!doctype html>
 <html lang="en-US" prefix="og: http://ogp.me/ns#">
 <head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1"><link rel="profile" href="https://gmpg.org/xfn/11">
-	
-	<!-- This site is optimized with the Yoast SEO plugin v15.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name='robots' content='noindex, follow' />
+
+	<!-- This site is optimized with the Yoast SEO plugin v16.0.1 - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Statistics Archives - Gaurav Yadav</title>
-	<meta name="robots" content="noindex, follow" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="Statistics Archives - Gaurav Yadav" />
-	<meta property="og:url" content="http://yadavgaurav.localhost/statistics/" />
+	<meta property="og:url" content="http://localhost/statistics/" />
 	<meta property="og:site_name" content="Gaurav Yadav" />
 	<meta name="twitter:card" content="summary_large_image" />
-	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":["Person","Organization"],"@id":"http://yadavgaurav.localhost/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9","name":"Gaurav Yadav","image":{"@type":"ImageObject","@id":"http://yadavgaurav.localhost/#personlogo","inLanguage":"en-US","url":"","caption":"Gaurav Yadav"},"logo":{"@id":"http://yadavgaurav.localhost/#personlogo"}},{"@type":"WebSite","@id":"http://yadavgaurav.localhost/#website","url":"http://yadavgaurav.localhost/","name":"Gaurav Yadav","description":"How To Develop","publisher":{"@id":"http://yadavgaurav.localhost/#/schema/person/6c1c16ca9efb0b1dc4927f69ed0771f9"},"potentialAction":[{"@type":"SearchAction","target":"http://yadavgaurav.localhost/?s={search_term_string}","query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"CollectionPage","@id":"http://yadavgaurav.localhost/statistics/#webpage","url":"http://yadavgaurav.localhost/statistics/","name":"Statistics Archives - Gaurav Yadav","isPartOf":{"@id":"http://yadavgaurav.localhost/#website"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["http://yadavgaurav.localhost/statistics/"]}]}]}</script>
+	<script type="application/ld+json" class="yoast-schema-graph">{
+	    "@context": "https://schema.org",
+	    "@graph": [
+	        {
+	            "@type": [
+	                "Person",
+	                "Organization"
+	            ],
+	            "@id": "http://localhost/#/schema/person/8a4d3d2884cec7bfcee1214081dd1974",
+	            "name": "Gaurav Yadav",
+	            "image": {
+	                "@type": "ImageObject",
+	                "@id": "http://localhost/#personlogo",
+	                "inLanguage": "en-US",
+	                "url": "",
+	                "caption": "Gaurav Yadav"
+	            },
+	            "logo": {
+	                "@id": "http://localhost/#personlogo"
+	            }
+	        },
+	        {
+	            "@type": "WebSite",
+	            "@id": "http://localhost/#website",
+	            "url": "http://localhost/",
+	            "name": "Gaurav Yadav",
+	            "description": "How To Develop",
+	            "publisher": {
+	                "@id": "http://localhost/#/schema/person/8a4d3d2884cec7bfcee1214081dd1974"
+	            },
+	            "potentialAction": [
+	                {
+	                    "@type": "SearchAction",
+	                    "target": "http://localhost/?s={search_term_string}",
+	                    "query-input": "required name=search_term_string"
+	                }
+	            ],
+	            "inLanguage": "en-US"
+	        },
+	        {
+	            "@type": "CollectionPage",
+	            "@id": "http://localhost/statistics/#webpage",
+	            "url": "http://localhost/statistics/",
+	            "name": "Statistics Archives - Gaurav Yadav",
+	            "isPartOf": {
+	                "@id": "http://localhost/#website"
+	            },
+	            "breadcrumb": {
+	                "@id": "http://localhost/statistics/#breadcrumb"
+	            },
+	            "inLanguage": "en-US",
+	            "potentialAction": [
+	                {
+	                    "@type": "ReadAction",
+	                    "target": [
+	                        "http://localhost/statistics/"
+	                    ]
+	                }
+	            ]
+	        },
+	        {
+	            "@type": "BreadcrumbList",
+	            "@id": "http://localhost/statistics/#breadcrumb",
+	            "itemListElement": [
+	                {
+	                    "@type": "ListItem",
+	                    "position": 1,
+	                    "item": {
+	                        "@type": "WebPage",
+	                        "@id": "http://localhost/",
+	                        "url": "http://localhost/",
+	                        "name": "Home"
+	                    }
+	                },
+	                {
+	                    "@type": "ListItem",
+	                    "position": 2,
+	                    "item": {
+	                        "@type": "WebPage",
+	                        "@id": "http://localhost/statistics/",
+	                        "url": "http://localhost/statistics/",
+	                        "name": "Statistics"
+	                    }
+	                }
+	            ]
+	        }
+	    ]
+	}</script>
 	<!-- / Yoast SEO plugin. -->
 
 
 <link rel='dns-prefetch' href='//s.w.org' />
-<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Feed" href="http://yadavgaurav.localhost/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Comments Feed" href="http://yadavgaurav.localhost/comments/feed/" />
-<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Statistics Category Feed" href="http://yadavgaurav.localhost/statistics/feed/" />
-<link rel='stylesheet' id='advancedseo-style-css'  href='http://yadavgaurav.localhost/wp-content/themes/advancedseo/style.css?ver=5.5.1' media='all' />
-<link rel="https://api.w.org/" href="http://yadavgaurav.localhost/wp-json/" /><link rel="alternate" type="application/json" href="http://yadavgaurav.localhost/wp-json/wp/v2/categories/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://yadavgaurav.localhost/xmlrpc.php?rsd" />
-<meta name="generator" content="WordPress 5.5.1" />
-<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" sizes="32x32" />
-<link rel="icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" sizes="192x192" />
-<link rel="apple-touch-icon" href="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" />
-<meta name="msapplication-TileImage" content="http://yadavgaurav.localhost/wp-content/uploads/2020/07/GY.png" />
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Feed" href="http://localhost/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Comments Feed" href="http://localhost/comments/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Gaurav Yadav &raquo; Statistics Category Feed" href="http://localhost/statistics/feed/" />
+<link rel='stylesheet' id='advancedseo-style-css'  href='http://localhost/wp-content/themes/advancedseo/style.css?ver=5.7' media='all' />
+<link rel="https://api.w.org/" href="http://localhost/wp-json/" /><link rel="alternate" type="application/json" href="http://localhost/wp-json/wp/v2/categories/2" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 5.7" />
+<style>.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><link rel="icon" href="http://localhost/wp-content/uploads/2020/07/GY.png" sizes="32x32" />
+<link rel="icon" href="http://localhost/wp-content/uploads/2020/07/GY.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="http://localhost/wp-content/uploads/2020/07/GY.png" />
+<meta name="msapplication-TileImage" content="http://localhost/wp-content/uploads/2020/07/GY.png" />
 	</head>
 <body class="archive category category-statistics category-2 wp-custom-logo hfeed">
 	<div id="page" class="site"><header id="masthead" class="site-header">
             <div class="h-cont clear"><div class="site-branding">
-							<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GY.svg" width="48" height="48" alt="Gaurav Yadav"></a>
-							<a class="site-title" href="http://yadavgaurav.localhost/" rel="home">Gaurav Yadav</a>		</div><!-- .site-branding -->
+							<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="48" height="48" alt="Gaurav Yadav"></a>
+							<a class="site-title" href="http://localhost/" rel="home">Gaurav Yadav</a>		</div><!-- .site-branding -->
 		<nav id="site-navigation" class="main-navigation clear">
 			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false" aria-label="Menu"><div class="fas fa-bars"></div></i></button>
-			<div class="menu-top-nav-container"><ul id="primary-menu" class="menu"><li id="menu-item-265" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-265"><a href="http://yadavgaurav.localhost/services/">Services</a></li>
-<li id="menu-item-266" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-266"><a href="http://yadavgaurav.localhost/projects/">Projects</a></li>
-<li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://yadavgaurav.localhost/blog/">Blog</a></li>
+			<div class="menu-top-nav-container"><ul id="primary-menu" class="menu"><li id="menu-item-123" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-123"><a href="http://localhost/blog/">Blog</a></li>
+<li id="menu-item-554" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-554"><a href="http://localhost/contact/">Contact</a></li>
 </ul></div>		</nav>
 <div class="lang-h"></div>
 		<!-- #site-navigation --></div></header><!-- #masthead --><div id="content" class="site-content">
@@ -51,9 +137,9 @@
 
 					<article itemprop="itemListElement" itemscope="" itemtype="https://schema.org/Article" class="blog-list">
 				<div class="card-data">
-					<a href="http://yadavgaurav.localhost/table-control-chart-constants/">
+					<a href="http://localhost/table-control-chart-constants/">
 						<div class="card-image" itemprop="image" itemscope itemtype="https://schema.org/ImageObject">
-							<img width="480" height="288" src="http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts-480x288.png" class="blog-img wp-post-image" alt="Control Charts" loading="lazy" srcset="http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts-480x288.png 480w, http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts.png 800w, http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts-200x120.png 200w, http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts-768x461.png 768w" sizes="(max-width: 480px) 100vw, 480px" />							<meta itemprop="url" content="http://yadavgaurav.localhost/wp-content/uploads/2019/10/Control-Charts.png">
+							<img width="480" height="288" src="http://localhost/wp-content/uploads/2019/10/Control-Charts-480x288.png" class="blog-img wp-post-image" alt="Control Charts" loading="lazy" srcset="http://localhost/wp-content/uploads/2019/10/Control-Charts-480x288.png 480w, http://localhost/wp-content/uploads/2019/10/Control-Charts.png 800w, http://localhost/wp-content/uploads/2019/10/Control-Charts-200x120.png 200w, http://localhost/wp-content/uploads/2019/10/Control-Charts-768x461.png 768w" sizes="(max-width: 480px) 100vw, 480px" />							<meta itemprop="url" content="http://localhost/wp-content/uploads/2019/10/Control-Charts.png">
 <meta itemprop='width' content='400px'/>
 <meta itemprop='height' content='240px'/>
 						</div>
@@ -75,10 +161,13 @@
 	</div></div>
 </section>
 	<footer id="colophon" class="site-footer">
-		<div class="h-cont gy-grid grid-2" style="padding-bottom:20px">
+		<div class="h-cont gy-grid grid-3" style="padding-bottom:20px">
 			<div class="action-c">
-				<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GY.svg" width="64" height="64" alt="Gaurav Yadav"></a>
+				<a href="https://yadavgaurav.com/" rel="home"><img src="https://yadavgaurav.com/wp-content/themes/svg/GYlogo.svg" width="64" height="64" alt="Gaurav Yadav"></a>
 				<p>Web Designer & Developer</p>
+				<p>Best Website Development Company in Gurugram and Delhi/NCR</p>
+			</div>
+			<div class="cont-foot"><h3>Contact Us</h3><p>579, Sector 27<br>Gurugram, Haryana</p><p>Mob: 9873396676</p><p>contact@yadavgaurav.com</p>
 			</div>
 			<div class="social-l">
 					<h3>Follow Us Around</h3>
@@ -97,7 +186,16 @@
 	</footer><!-- #colophon -->
 </div><!-- #page -->
 
-<script src='http://yadavgaurav.localhost/wp-content/themes/advancedseo/js/navigation.js?ver=20151215' id='advancedseo-navigation-js'></script>
+<script src='http://localhost/wp-content/themes/advancedseo/js/navigation.js?ver=20151215' id='advancedseo-navigation-js'></script>
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-153864753-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-153864753-1');
+</script>
 
 </body>
 </html>
