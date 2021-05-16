@@ -559,11 +559,7 @@ textarea {
     border: 4px solid #fff;
     border-radius: 8px;
 }
-<<<<<<< HEAD
 .cont-foot p{margin: 12px 0;}
-=======
-
->>>>>>> f90031c6cc2c29ba034f040ea70bb6deb3ecc1f4
 @media (min-width:786px) {
 	.h-cont,.c-nrw,.container,#comments,#llc_comments #respond,.comment{max-width:var(--width);}
 	.entry-footer,#comments,#llc_comments #respond,.comment,.widget-area {
