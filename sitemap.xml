@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://yadavgaurav.com/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://yadavgaurav.local/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>https://yadavgaurav.com/post-sitemap.xml</loc>
+		<loc>https://yadavgaurav.local/post-sitemap.xml</loc>
 		<lastmod>2025-03-28T15:02:46+00:00</lastmod>
 	</sitemap>
 	<sitemap>
-		<loc>https://yadavgaurav.com/page-sitemap.xml</loc>
+		<loc>https://yadavgaurav.local/page-sitemap.xml</loc>
 		<lastmod>2024-11-03T10:14:51+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
