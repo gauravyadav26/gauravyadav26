@@ -4,6 +4,16 @@
 		<loc>https://yadavgaurav.com/blog/</loc>
 	</url>
 	<url>
+		<loc>https://yadavgaurav.com/how-start-wordpress-blog/</loc>
+		<lastmod>2025-05-10T09:56:08+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/How-to-Start-a-WordPress-Blog-in-2025-Step-by-Step-Beginners-Guide.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/WordPress-Theme.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yadavgaurav.com/wordpress-static-html-website/</loc>
 		<lastmod>2025-05-10T08:57:35+00:00</lastmod>
 		<image:image>
@@ -12,10 +22,6 @@
 		<image:image>
 			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/10/Simply-Static.avif</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>https://yadavgaurav.com/how-start-wordpress-blog/</loc>
-		<lastmod>2025-04-25T13:54:08+00:00</lastmod>
 	</url>
 	<url>
 		<loc>https://yadavgaurav.com/best-wordpress-cloud-hosting/</loc>
