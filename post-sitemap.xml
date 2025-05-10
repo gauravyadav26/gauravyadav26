@@ -4,6 +4,16 @@
 		<loc>https://yadavgaurav.com/blog/</loc>
 	</url>
 	<url>
+		<loc>https://yadavgaurav.com/wordpress-static-html-website/</loc>
+		<lastmod>2025-05-10T08:57:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/10/Convert-WordPress-Website-To-Static-Website.svg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/10/Simply-Static.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yadavgaurav.com/how-start-wordpress-blog/</loc>
 		<lastmod>2025-04-25T13:54:08+00:00</lastmod>
 	</url>
@@ -106,16 +116,6 @@
 		<lastmod>2023-11-03T21:24:43+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/04/OneDrive-Ubuntu.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yadavgaurav.com/wordpress-static-html-website/</loc>
-		<lastmod>2023-11-03T21:13:32+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/10/Convert-WordPress-Website-To-Static-Website.svg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2023/07/PostProcessing.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
