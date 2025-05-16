@@ -474,3 +474,19 @@ flex: 0 0 90%;color: #fff;background:var(--wp--preset--color--dgrey);border:3px 
 }
 
 }
+.heading-b{
+  background: var(--wp--preset--color--gypurple);
+    color: #fff;
+    padding: 8px 12px;
+    margin: 28px 0;
+    border-top: 24px solid #d6dcea;
+    border-radius: 12px;
+}
+.heading-b-d{
+  background: var(--wp--preset--color--dgrey);
+    color: #fff;
+    padding: 8px 12px;
+    margin: 28px 0;
+    border-top: 24px solid #d6dcea;
+    border-radius: 12px;
+}
