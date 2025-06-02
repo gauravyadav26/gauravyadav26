@@ -4,8 +4,53 @@
 		<loc>https://yadavgaurav.com/blog/</loc>
 	</url>
 	<url>
+		<loc>https://yadavgaurav.com/say-hello-to-if-in-css-smarter-styles-with-built-in-logic/</loc>
+		<lastmod>2025-06-02T20:39:18+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/06/If-CSS.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yadavgaurav.com/table-control-chart-constants/</loc>
+		<lastmod>2025-05-24T08:14:57+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2019/10/How-To-Create-X-bar-And-R-Control-Charts-In-Excel.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yadavgaurav.com/how-to-safely-make-changes-to-the-header-or-footer-of-a-wordpress-theme/</loc>
+		<lastmod>2025-05-16T07:39:35+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/05/How-to-Safely-Make-Changes-to-the-Header-or-Footer-of-a-WordPress-Theme.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yadavgaurav.com/how-start-wordpress-blog/</loc>
+		<lastmod>2025-05-16T07:30:00+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/How-to-Start-a-WordPress-Blog-in-2025-Step-by-Step-Beginners-Guide.avif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/WordPress-Theme.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yadavgaurav.com/server-maintenance-checklist-keep-your-website-running-smoothly/</loc>
+		<lastmod>2025-05-16T07:26:34+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/03/Server-Maintenance-Checklist.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>https://yadavgaurav.com/managed-vs-unmanaged-hosting-whats-best-for-your-website/</loc>
+		<lastmod>2025-05-16T07:25:10+00:00</lastmod>
+		<image:image>
+			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/03/Managed-vs.-Unmanaged-Hosting.avif</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://yadavgaurav.com/how-make-money-blogging-202-guide-beginners/</loc>
-		<lastmod>2025-05-14T12:36:43+00:00</lastmod>
+		<lastmod>2025-05-16T07:22:27+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/05/Make-Money-Blogging.avif</image:loc>
 		</image:image>
@@ -38,16 +83,6 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>https://yadavgaurav.com/how-start-wordpress-blog/</loc>
-		<lastmod>2025-05-10T09:56:08+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/How-to-Start-a-WordPress-Blog-in-2025-Step-by-Step-Beginners-Guide.avif</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/12/WordPress-Theme.avif</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>https://yadavgaurav.com/wordpress-static-html-website/</loc>
 		<lastmod>2025-05-10T08:57:35+00:00</lastmod>
 		<image:image>
@@ -55,20 +90,6 @@
 		</image:image>
 		<image:image>
 			<image:loc>https://yadavgaurav.com/wp-content/uploads/2020/10/Simply-Static.avif</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yadavgaurav.com/managed-vs-unmanaged-hosting-whats-best-for-your-website/</loc>
-		<lastmod>2025-04-10T07:31:45+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/03/Managed-vs.-Unmanaged-Hosting.avif</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yadavgaurav.com/server-maintenance-checklist-keep-your-website-running-smoothly/</loc>
-		<lastmod>2025-03-28T15:00:10+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2025/03/Server-Maintenance-Checklist.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
@@ -143,13 +164,6 @@
 		<lastmod>2023-11-03T20:44:54+00:00</lastmod>
 		<image:image>
 			<image:loc>https://yadavgaurav.com/wp-content/uploads/2022/08/Stop-Watch.svg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://yadavgaurav.com/table-control-chart-constants/</loc>
-		<lastmod>2023-11-02T22:08:54+00:00</lastmod>
-		<image:image>
-			<image:loc>https://yadavgaurav.com/wp-content/uploads/2019/10/Control-Charts.avif</image:loc>
 		</image:image>
 	</url>
 	<url>
