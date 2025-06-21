@@ -490,3 +490,10 @@ flex: 0 0 90%;color: #fff;background:var(--wp--preset--color--dgrey);border:3px 
     border-top: 24px solid #d6dcea;
     border-radius: 12px;
 }
+#arrow {
+    position: absolute;
+    max-width: 124px;
+    transform: rotate(-11deg);
+    right: 0;
+    top: 0;
+}
